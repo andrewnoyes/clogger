@@ -1,0 +1,15 @@
+{
+  "name": "clogger",
+  "version": "1.0.0",
+  "description": "Client-side logger for the browser",
+  "main": "dist",
+  "repository": "https://github.com/andrewnoyes/clogger",
+  "author": "andrewnoyes",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  }
+}
